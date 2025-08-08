@@ -2,10 +2,8 @@
 
 import { motion } from 'framer-motion';
 import { ArrowRight, Bot, Brain, Zap } from 'lucide-react';
-import { useTranslations } from 'next-intl';
 
 export default function HeroSection() {
-  const t = useTranslations('hero');
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center pt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -46,9 +44,9 @@ export default function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2, duration: 0.8 }}
           >
-            {t('title1')}
+            AI-Powered Intelligence
             <br />
-            <span className="text-white">{t('title2')}</span>
+            <span className="text-white">For Your Business</span>
           </motion.h1>
 
           <motion.p
@@ -57,7 +55,8 @@ export default function HeroSection() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.8 }}
           >
-            {t('subtitle')}
+            Transform your organization with intelligent chatbots built on your knowledge base 
+            and AI operators that revolutionize operational efficiency.
           </motion.p>
 
           <motion.div
@@ -71,7 +70,7 @@ export default function HeroSection() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              {t('startJourney')}
+              Start Your AI Journey
               <ArrowRight size={20} />
             </motion.button>
             
@@ -80,7 +79,7 @@ export default function HeroSection() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              {t('watchDemo')}
+              Watch Demo
             </motion.button>
           </motion.div>
 
@@ -93,15 +92,15 @@ export default function HeroSection() {
           >
             <div className="glass p-6 rounded-lg">
               <div className="text-3xl font-bold text-blue-400">500+</div>
-              <div className="text-gray-300">{t('stats.chatbots')}</div>
+              <div className="text-gray-300">AI Chatbots Deployed</div>
             </div>
             <div className="glass p-6 rounded-lg">
               <div className="text-3xl font-bold text-purple-400">95%</div>
-              <div className="text-gray-300">{t('stats.efficiency')}</div>
+              <div className="text-gray-300">Efficiency Improvement</div>
             </div>
             <div className="glass p-6 rounded-lg">
               <div className="text-3xl font-bold text-blue-400">24/7</div>
-              <div className="text-gray-300">{t('stats.operations')}</div>
+              <div className="text-gray-300">Intelligent Operations</div>
             </div>
           </motion.div>
         </motion.div>
