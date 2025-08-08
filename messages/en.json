@@ -1,0 +1,193 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "successStories": "Success Stories",
+    "about": "About",
+    "clientPortal": "Client Portal",
+    "language": "Language"
+  },
+  "hero": {
+    "title1": "AI-Powered Intelligence",
+    "title2": "For Your Business",
+    "subtitle": "Transform your organization with intelligent chatbots built on your knowledge base and AI operators that revolutionize operational efficiency.",
+    "startJourney": "Start Your AI Journey",
+    "watchDemo": "Watch Demo",
+    "stats": {
+      "chatbots": "AI Chatbots Deployed",
+      "efficiency": "Efficiency Improvement",
+      "operations": "Intelligent Operations"
+    }
+  },
+  "services": {
+    "title": "Our AI Solutions",
+    "subtitle": "Cutting-edge artificial intelligence solutions designed to transform how your organization operates and communicates.",
+    "chatbots": {
+      "title": "Internal Knowledge Chatbots",
+      "description": "Transform your company's knowledge base into intelligent, conversational AI assistants that provide instant, accurate answers to employee queries.",
+      "features": {
+        "nlp": "Natural Language Processing",
+        "integration": "Document Integration",
+        "multilingual": "Multi-language Support",
+        "learning": "Real-time Learning"
+      }
+    },
+    "automation": {
+      "title": "AI Operations Automation",
+      "description": "Deploy intelligent operators that streamline workflows, automate repetitive tasks, and optimize business processes with machine learning.",
+      "features": {
+        "process": "Process Automation",
+        "analytics": "Predictive Analytics",
+        "routing": "Smart Routing",
+        "optimization": "Performance Optimization"
+      }
+    },
+    "integration": {
+      "title": "Knowledge Base Integration",
+      "description": "Seamlessly connect your existing documentation, databases, and systems to create a unified AI-powered knowledge ecosystem.",
+      "features": {
+        "api": "API Integrations",
+        "sync": "Data Synchronization",
+        "security": "Security Compliance",
+        "connectors": "Custom Connectors"
+      }
+    },
+    "additionalFeatures": {
+      "support": "24/7 Support & Monitoring",
+      "learning": "Continuous Learning & Improvement",
+      "implementation": "Custom Implementation"
+    },
+    "learnMore": "Learn More"
+  },
+  "successStories": {
+    "title": "Success Stories",
+    "subtitle": "Discover how organizations across industries have transformed their operations with our AI solutions.",
+    "companies": {
+      "techCorp": {
+        "name": "TechCorp Solutions",
+        "industry": "Technology",
+        "challenge": "Employees spent hours searching through documentation and internal wikis",
+        "solution": "Deployed AI chatbot integrated with entire knowledge base",
+        "testimonial": "Lumora Tech's AI chatbot transformed how our team accesses information. What used to take hours now takes minutes.",
+        "author": "Sarah Chen",
+        "position": "CTO",
+        "metrics": {
+          "resolution": "Query Resolution Time",
+          "satisfaction": "Employee Satisfaction",
+          "tickets": "Support Tickets"
+        }
+      },
+      "manufacturing": {
+        "name": "Global Manufacturing Inc",
+        "industry": "Manufacturing",
+        "challenge": "Manual quality control processes and inefficient workflow management",
+        "solution": "Implemented AI operators for process automation and predictive maintenance",
+        "testimonial": "The AI operators have revolutionized our manufacturing processes. We've seen unprecedented efficiency gains.",
+        "author": "Michael Rodriguez",
+        "position": "Operations Director",
+        "metrics": {
+          "efficiency": "Operational Efficiency",
+          "detection": "Defect Detection",
+          "downtime": "Downtime Reduction"
+        }
+      },
+      "healthcare": {
+        "name": "HealthFirst Medical",
+        "industry": "Healthcare",
+        "challenge": "Medical staff needed quick access to protocols and patient care guidelines",
+        "solution": "Custom medical knowledge AI assistant with HIPAA compliance",
+        "testimonial": "Having instant access to medical protocols and guidelines has improved our patient care quality significantly.",
+        "author": "Dr. Amanda Foster",
+        "position": "Chief Medical Officer",
+        "metrics": {
+          "access": "Protocol Access Time",
+          "accuracy": "Accuracy Rate",
+          "training": "Staff Training Time"
+        }
+      }
+    },
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "overallImpact": {
+      "title": "Overall Impact Across All Clients",
+      "efficiency": "Average Efficiency Gain",
+      "users": "Users Served Daily",
+      "hours": "Hours Saved Annually",
+      "satisfaction": "Client Satisfaction"
+    }
+  },
+  "footer": {
+    "description": "Empowering businesses with intelligent AI solutions. We build custom chatbots and AI operators that transform how organizations operate and communicate.",
+    "services": {
+      "title": "Services",
+      "chatbots": "AI Chatbots",
+      "operations": "AI Operations",
+      "integration": "Knowledge Integration",
+      "solutions": "Custom Solutions",
+      "consulting": "Consulting"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "legal": {
+      "copyright": "© 2024 Lumora Tech. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  },
+  "login": {
+    "title": "Client Portal",
+    "subtitle": "Access your AI solutions dashboard",
+    "email": "Email Address",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "tryDemo": "Try Demo Access",
+    "needAccess": "Need access?",
+    "contactTeam": "Contact our team"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome, John Doe",
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "chatbots": "Chatbots",
+      "analytics": "Analytics",
+      "users": "Users",
+      "settings": "Settings",
+      "signOut": "Sign Out"
+    },
+    "stats": {
+      "activeChatbots": "Active Chatbots",
+      "queriesResolved": "Queries Resolved",
+      "activeUsers": "Active Users",
+      "efficiencyGain": "Efficiency Gain"
+    },
+    "chatbots": {
+      "title": "Active Chatbots",
+      "status": {
+        "active": "Active",
+        "training": "Training"
+      },
+      "queries": "queries",
+      "accuracy": "accuracy"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "deploy": "Deploy New Chatbot",
+      "analytics": "View Analytics",
+      "training": "Training Data"
+    },
+    "recentActivity": {
+      "title": "Recent Activity",
+      "activities": {
+        "resolved": "HR Assistant resolved 23 queries",
+        "updated": "IT Support Bot updated knowledge base",
+        "completed": "Sales Knowledge completed training",
+        "joined": "New user joined the platform"
+      }
+    }
+  }
+}

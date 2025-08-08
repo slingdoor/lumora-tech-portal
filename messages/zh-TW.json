@@ -1,0 +1,193 @@
+{
+  "navigation": {
+    "home": "首頁",
+    "services": "服務",
+    "successStories": "成功案例",
+    "about": "關於我們",
+    "clientPortal": "客戶入口",
+    "language": "語言"
+  },
+  "hero": {
+    "title1": "AI 驅動的智慧",
+    "title2": "為您的企業服務",
+    "subtitle": "運用基於您知識庫構建的智慧聊天機器人和革命性的 AI 營運者，來轉型您的組織，提升營運效率。",
+    "startJourney": "開始您的 AI 之旅",
+    "watchDemo": "觀看示範",
+    "stats": {
+      "chatbots": "AI 聊天機器人部署",
+      "efficiency": "效率提升",
+      "operations": "智慧營運"
+    }
+  },
+  "services": {
+    "title": "我們的 AI 解決方案",
+    "subtitle": "尖端的人工智慧解決方案，旨在改變您的組織營運和溝通方式。",
+    "chatbots": {
+      "title": "內部知識聊天機器人",
+      "description": "將您公司的知識庫轉化為智慧的對話式 AI 助理，為員工查詢提供即時、準確的答案。",
+      "features": {
+        "nlp": "自然語言處理",
+        "integration": "文件整合",
+        "multilingual": "多語言支援",
+        "learning": "即時學習"
+      }
+    },
+    "automation": {
+      "title": "AI 營運自動化",
+      "description": "部署智慧營運者，簡化工作流程，自動化重複性任務，並透過機器學習優化業務流程。",
+      "features": {
+        "process": "流程自動化",
+        "analytics": "預測分析",
+        "routing": "智慧路由",
+        "optimization": "效能優化"
+      }
+    },
+    "integration": {
+      "title": "知識庫整合",
+      "description": "無縫連接您現有的文件、資料庫和系統，創建統一的 AI 驅動知識生態系統。",
+      "features": {
+        "api": "API 整合",
+        "sync": "資料同步",
+        "security": "安全合規",
+        "connectors": "客製化連接器"
+      }
+    },
+    "additionalFeatures": {
+      "support": "24/7 支援與監控",
+      "learning": "持續學習與改進",
+      "implementation": "客製化實施"
+    },
+    "learnMore": "了解更多"
+  },
+  "successStories": {
+    "title": "成功案例",
+    "subtitle": "了解各行業組織如何透過我們的 AI 解決方案改變其營運。",
+    "companies": {
+      "techCorp": {
+        "name": "科技公司解決方案",
+        "industry": "科技",
+        "challenge": "員工花費數小時搜尋文件和內部維基",
+        "solution": "部署與整個知識庫整合的 AI 聊天機器人",
+        "testimonial": "Lumora Tech 的 AI 聊天機器人改變了我們團隊獲取信息的方式。過去需要數小時的工作現在只需幾分鐘。",
+        "author": "陳莎拉",
+        "position": "技術長",
+        "metrics": {
+          "resolution": "查詢解決時間",
+          "satisfaction": "員工滿意度",
+          "tickets": "支援工單"
+        }
+      },
+      "manufacturing": {
+        "name": "全球製造有限公司",
+        "industry": "製造業",
+        "challenge": "手動品質控制流程和低效的工作流程管理",
+        "solution": "實施 AI 營運者進行流程自動化和預測性維護",
+        "testimonial": "AI 營運者已經革命性地改變了我們的製造流程。我們看到了前所未有的效率提升。",
+        "author": "邁克爾·羅德里格茲",
+        "position": "營運總監",
+        "metrics": {
+          "efficiency": "營運效率",
+          "detection": "缺陷檢測",
+          "downtime": "停機時間減少"
+        }
+      },
+      "healthcare": {
+        "name": "健康優先醫療",
+        "industry": "醫療保健",
+        "challenge": "醫護人員需要快速獲取協議和患者照護指南",
+        "solution": "符合 HIPAA 規範的客製化醫療知識 AI 助理",
+        "testimonial": "能即時獲取醫療協議和指南顯著提升了我們的患者照護品質。",
+        "author": "阿曼達·福斯特醫生",
+        "position": "醫療長",
+        "metrics": {
+          "access": "協議獲取時間",
+          "accuracy": "準確率",
+          "training": "員工培訓時間"
+        }
+      }
+    },
+    "challenge": "挑戰",
+    "solution": "解決方案",
+    "overallImpact": {
+      "title": "所有客戶的整體影響",
+      "efficiency": "平均效率提升",
+      "users": "每日服務用戶",
+      "hours": "每年節省時間",
+      "satisfaction": "客戶滿意度"
+    }
+  },
+  "footer": {
+    "description": "透過智慧 AI 解決方案為企業賦能。我們構建客製化聊天機器人和 AI 營運者，改變組織的營運和溝通方式。",
+    "services": {
+      "title": "服務",
+      "chatbots": "AI 聊天機器人",
+      "operations": "AI 營運",
+      "integration": "知識整合",
+      "solutions": "客製化解決方案",
+      "consulting": "諮詢"
+    },
+    "contact": {
+      "title": "聯絡我們"
+    },
+    "legal": {
+      "copyright": "© 2024 Lumora Tech. 版權所有。",
+      "privacy": "隱私政策",
+      "terms": "服務條款",
+      "cookies": "Cookie 政策"
+    }
+  },
+  "login": {
+    "title": "客戶入口",
+    "subtitle": "存取您的 AI 解決方案儀表板",
+    "email": "電子郵件地址",
+    "password": "密碼",
+    "rememberMe": "記住我",
+    "forgotPassword": "忘記密碼？",
+    "signIn": "登入",
+    "tryDemo": "試用示範",
+    "needAccess": "需要存取權限？",
+    "contactTeam": "聯絡我們的團隊"
+  },
+  "dashboard": {
+    "title": "儀表板",
+    "welcome": "歡迎，約翰·多伊",
+    "sidebar": {
+      "dashboard": "儀表板",
+      "chatbots": "聊天機器人",
+      "analytics": "分析",
+      "users": "用戶",
+      "settings": "設定",
+      "signOut": "登出"
+    },
+    "stats": {
+      "activeChatbots": "活躍聊天機器人",
+      "queriesResolved": "已解決查詢",
+      "activeUsers": "活躍用戶",
+      "efficiencyGain": "效率提升"
+    },
+    "chatbots": {
+      "title": "活躍聊天機器人",
+      "status": {
+        "active": "活躍",
+        "training": "訓練中"
+      },
+      "queries": "查詢",
+      "accuracy": "準確率"
+    },
+    "quickActions": {
+      "title": "快速操作",
+      "deploy": "部署新聊天機器人",
+      "analytics": "查看分析",
+      "training": "訓練資料"
+    },
+    "recentActivity": {
+      "title": "最近活動",
+      "activities": {
+        "resolved": "人力資源助理解決了 23 個查詢",
+        "updated": "IT 支援機器人更新了知識庫",
+        "completed": "銷售知識完成了訓練",
+        "joined": "新用戶加入了平台"
+      }
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "navigation": {
+    "home": "首页",
+    "services": "服务",
+    "successStories": "成功案例",
+    "about": "关于我们",
+    "clientPortal": "客户门户",
+    "language": "语言"
+  },
+  "hero": {
+    "title1": "AI 驱动的智能",
+    "title2": "为您的企业服务",
+    "subtitle": "运用基于您知识库构建的智能聊天机器人和革命性的 AI 运营者，来转型您的组织，提升运营效率。",
+    "startJourney": "开始您的 AI 之旅",
+    "watchDemo": "观看演示",
+    "stats": {
+      "chatbots": "AI 聊天机器人部署",
+      "efficiency": "效率提升",
+      "operations": "智能运营"
+    }
+  },
+  "services": {
+    "title": "我们的 AI 解决方案",
+    "subtitle": "尖端的人工智能解决方案，旨在改变您的组织运营和沟通方式。",
+    "chatbots": {
+      "title": "内部知识聊天机器人",
+      "description": "将您公司的知识库转化为智能的对话式 AI 助理，为员工查询提供即时、准确的答案。",
+      "features": {
+        "nlp": "自然语言处理",
+        "integration": "文档集成",
+        "multilingual": "多语言支持",
+        "learning": "实时学习"
+      }
+    },
+    "automation": {
+      "title": "AI 运营自动化",
+      "description": "部署智能运营者，简化工作流程，自动化重复性任务，并通过机器学习优化业务流程。",
+      "features": {
+        "process": "流程自动化",
+        "analytics": "预测分析",
+        "routing": "智能路由",
+        "optimization": "性能优化"
+      }
+    },
+    "integration": {
+      "title": "知识库集成",
+      "description": "无缝连接您现有的文档、数据库和系统，创建统一的 AI 驱动知识生态系统。",
+      "features": {
+        "api": "API 集成",
+        "sync": "数据同步",
+        "security": "安全合规",
+        "connectors": "定制连接器"
+      }
+    },
+    "additionalFeatures": {
+      "support": "24/7 支持与监控",
+      "learning": "持续学习与改进",
+      "implementation": "定制实施"
+    },
+    "learnMore": "了解更多"
+  },
+  "successStories": {
+    "title": "成功案例",
+    "subtitle": "了解各行业组织如何通过我们的 AI 解决方案改变其运营。",
+    "companies": {
+      "techCorp": {
+        "name": "科技公司解决方案",
+        "industry": "科技",
+        "challenge": "员工花费数小时搜索文档和内部维基",
+        "solution": "部署与整个知识库集成的 AI 聊天机器人",
+        "testimonial": "Lumora Tech 的 AI 聊天机器人改变了我们团队获取信息的方式。过去需要数小时的工作现在只需几分钟。",
+        "author": "陈莎拉",
+        "position": "技术总监",
+        "metrics": {
+          "resolution": "查询解决时间",
+          "satisfaction": "员工满意度",
+          "tickets": "支持工单"
+        }
+      },
+      "manufacturing": {
+        "name": "全球制造有限公司",
+        "industry": "制造业",
+        "challenge": "手动质量控制流程和低效的工作流程管理",
+        "solution": "实施 AI 运营者进行流程自动化和预测性维护",
+        "testimonial": "AI 运营者已经革命性地改变了我们的制造流程。我们看到了前所未有的效率提升。",
+        "author": "迈克尔·罗德里格斯",
+        "position": "运营总监",
+        "metrics": {
+          "efficiency": "运营效率",
+          "detection": "缺陷检测",
+          "downtime": "停机时间减少"
+        }
+      },
+      "healthcare": {
+        "name": "健康优先医疗",
+        "industry": "医疗保健",
+        "challenge": "医护人员需要快速获取协议和患者护理指南",
+        "solution": "符合 HIPAA 规范的定制医疗知识 AI 助理",
+        "testimonial": "能即时获取医疗协议和指南显著提升了我们的患者护理质量。",
+        "author": "阿曼达·福斯特医生",
+        "position": "医疗总监",
+        "metrics": {
+          "access": "协议获取时间",
+          "accuracy": "准确率",
+          "training": "员工培训时间"
+        }
+      }
+    },
+    "challenge": "挑战",
+    "solution": "解决方案",
+    "overallImpact": {
+      "title": "所有客户的整体影响",
+      "efficiency": "平均效率提升",
+      "users": "每日服务用户",
+      "hours": "每年节省时间",
+      "satisfaction": "客户满意度"
+    }
+  },
+  "footer": {
+    "description": "通过智能 AI 解决方案为企业赋能。我们构建定制聊天机器人和 AI 运营者，改变组织的运营和沟通方式。",
+    "services": {
+      "title": "服务",
+      "chatbots": "AI 聊天机器人",
+      "operations": "AI 运营",
+      "integration": "知识集成",
+      "solutions": "定制解决方案",
+      "consulting": "咨询"
+    },
+    "contact": {
+      "title": "联系我们"
+    },
+    "legal": {
+      "copyright": "© 2024 Lumora Tech. 版权所有。",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookies": "Cookie 政策"
+    }
+  },
+  "login": {
+    "title": "客户门户",
+    "subtitle": "访问您的 AI 解决方案仪表板",
+    "email": "电子邮件地址",
+    "password": "密码",
+    "rememberMe": "记住我",
+    "forgotPassword": "忘记密码？",
+    "signIn": "登录",
+    "tryDemo": "试用演示",
+    "needAccess": "需要访问权限？",
+    "contactTeam": "联系我们的团队"
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "welcome": "欢迎，约翰·多伊",
+    "sidebar": {
+      "dashboard": "仪表板",
+      "chatbots": "聊天机器人",
+      "analytics": "分析",
+      "users": "用户",
+      "settings": "设置",
+      "signOut": "登出"
+    },
+    "stats": {
+      "activeChatbots": "活跃聊天机器人",
+      "queriesResolved": "已解决查询",
+      "activeUsers": "活跃用户",
+      "efficiencyGain": "效率提升"
+    },
+    "chatbots": {
+      "title": "活跃聊天机器人",
+      "status": {
+        "active": "活跃",
+        "training": "训练中"
+      },
+      "queries": "查询",
+      "accuracy": "准确率"
+    },
+    "quickActions": {
+      "title": "快速操作",
+      "deploy": "部署新聊天机器人",
+      "analytics": "查看分析",
+      "training": "训练数据"
+    },
+    "recentActivity": {
+      "title": "最近活动",
+      "activities": {
+        "resolved": "人力资源助理解决了 23 个查询",
+        "updated": "IT 支持机器人更新了知识库",
+        "completed": "销售知识完成了训练",
+        "joined": "新用户加入了平台"
+      }
+    }
+  }
+}
