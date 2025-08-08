@@ -84,7 +84,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-blue-400" />
-                <span className="text-gray-300">hello@lumoratech.ai</span>
+                <span className="text-gray-300">hello@lumora.fyi</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="w-4 h-4 text-blue-400" />
